@@ -56,7 +56,7 @@ An SSH login attempt is made using known credentials. This fails because the cor
 The system rejects the login attempt due to an incorrect password.
 
 <p align="center">
-<img src="screenshots/image4.png" width="80%">
+<img src="screenshots/image 4.png" width="80%">
 </p>
 
 ---
@@ -80,7 +80,7 @@ Example command:
 | `-F` | Stops once a valid password is found |
 
 <p align="center">
-<img src="screenshots/image5.png" width="80%">
+<img src="screenshots/image 5.png" width="80%">
 </p>
 
 ---
@@ -90,15 +90,15 @@ Example command:
 Hydra begins systematically testing passwords from the wordlist.
 
 <p align="center">
-<img src="screenshots/image6.png" width="80%">
+<img src="screenshots/image 6.png" width="80%">
 </p>
 
 <p align="center">
-<img src="screenshots/image7.png" width="80%">
+<img src="screenshots/image 7.png" width="80%">
 </p>
 
 <p align="center">
-<img src="screenshots/image8.png" width="80%">
+<img src="screenshots/image 8.png" width="80%">
 </p>
 
 ---
@@ -110,7 +110,7 @@ Hydra eventually finds the correct password:
 
 
 <p align="center">
-<img src="screenshots/image9.png" width="80%">
+<img src="screenshots/image 9.png" width="80%">
 </p>
 
 ---
@@ -123,7 +123,7 @@ Using the discovered credentials, the attacker successfully logs into the target
 
 
 <p align="center">
-<img src="screenshots/image11.png" width="80%">
+<img src="screenshots/image 11.png" width="80%">
 </p>
 
 ---
@@ -137,15 +137,15 @@ Example:
 
 
 <p align="center">
-<img src="screenshots/image12.png" width="80%">
+<img src="screenshots/image 12.png" width="80%">
 </p>
 
 <p align="center">
-<img src="screenshots/image13.png" width="80%">
+<img src="screenshots/image 13.png" width="80%">
 </p>
 
 <p align="center">
-<img src="screenshots/image14.png" width="80%">
+<img src="screenshots/image 14.png" width="80%">
 </p>
 
 ---
@@ -157,15 +157,15 @@ The attacker edits the newly created file using Nano.
 
 
 <p align="center">
-<img src="screenshots/image16.png" width="80%">
+<img src="screenshots/image 16.png" width="80%">
 </p>
 
 <p align="center">
-<img src="screenshots/image17.png" width="80%">
+<img src="screenshots/image 17.png" width="80%">
 </p>
 
 <p align="center">
-<img src="screenshots/image18.png" width="80%">
+<img src="screenshots/image 18.png" width="80%">
 </p>
 
 ---

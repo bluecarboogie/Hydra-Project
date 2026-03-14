@@ -33,7 +33,7 @@ The lab simulates a common attack scenario where an attacker attempts to gain un
 The IP address of the vulnerable Ubuntu VM is identified so the attacker machine can target it.
 
 <p align="center">
-<img src="screenshots/image1.png" width="80%">
+<img src="screenshots/image1.pngimage 1.png" width="80%">
 </p>
 
 ---

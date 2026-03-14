@@ -46,7 +46,7 @@ An SSH login attempt is made using known credentials. This fails because the cor
 
 
 <p align="center">
-<img src="screenshots/image3.png" width="80%">
+<img src="screenshots/image 3.png" width="80%">
 </p>
 
 ---
